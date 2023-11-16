@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700125780620,
+      "tag": "0000_far_bill_hollister",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700130578157,
+      "tag": "0001_tearful_maelstrom",
+      "breakpoints": true
+    }
+  ]
+}
